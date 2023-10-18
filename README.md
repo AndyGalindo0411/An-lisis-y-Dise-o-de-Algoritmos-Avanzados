@@ -1,2 +1,2 @@
-# An-lisis-y-Dise-o-de-Algoritmos-Avanzados
-Poryectos 
+# Análisis-y-Diseño-de-Algoritmos-Avanzados
+Proyectos 
